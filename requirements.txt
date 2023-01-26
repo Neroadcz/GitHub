@@ -15,7 +15,7 @@ colorama==0.4.6
 colorgram.py==1.2.0
 Deprecated==1.2.13
 distlib==0.3.6
-Django==4.1.4
+Django
 dominate==2.7.0
 exceptiongroup==1.0.4
 filelock==3.8.2
