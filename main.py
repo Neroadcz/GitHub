@@ -10,6 +10,7 @@ from forms import CreatePostForm, UserRegister, LoginForm, CommentForm
 from flask_gravatar import Gravatar
 from sqlalchemy.exc import IntegrityError
 from functools import wraps
+
 app = Flask(__name__)
 
 app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
